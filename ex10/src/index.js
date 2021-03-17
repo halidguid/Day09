@@ -8,8 +8,8 @@ function logicOrder(num){
         return "Greater than or equal to 100";
     }
     }
-    console.log(logicOrder(28))
-    console.log(logicOrder(60))
-    console.log(logicOrder(110))
+    console.log(logicOrder(28));
+    console.log(logicOrder(60));
+    console.log(logicOrder(110));
     // Only change code above this line
-    module.exports = logicOrder
+    module.exports = logicOrder;
